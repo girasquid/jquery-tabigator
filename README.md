@@ -12,8 +12,10 @@ Usage
     <li><a href="#three">Three</a></li>
   </ul>
   
+  
   <div class="navigable" id="one">one</div>
   <div class="navigable" id="two">two</div>
   <div class="navigable" id="three">three</div>
+  
   
   $("#navigator").tabigator();
